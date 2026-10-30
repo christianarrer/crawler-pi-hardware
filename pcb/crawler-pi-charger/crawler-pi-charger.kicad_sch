@@ -1124,6 +1124,352 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "crawler-pi-charger:CRCW040247K0JNED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "47k"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C71619.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor, 47K, 1/16W, 5% 0402"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Vishay"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CRCW040247K0JNED"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C71619"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CRCW040247K0JNED_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CRCW040247K0JNED_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "crawler-pi-charger:ERJ-L08KJ50MV"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0.05"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C3914720.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor, 0.05Ω, 1/3W, 5% 1206"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "ERJ-L08KJ50MV"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C3914720"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "ERJ-L08KJ50MV_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "ERJ-L08KJ50MV_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "crawler-pi-charger:FDC658AP"
 			(pin_names
 				(offset 0)
@@ -2018,6 +2364,205 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "crawler-pi-charger:MMSZ5248BS"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MMSZ5248BS-7"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_SMD:D_SOD-323"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C460919.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "18V Zener diode, SOD-323"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Diodes Incorporated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "MMSZ5248BS-7"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C460919"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MMSZ5248BS_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MMSZ5248BS_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "crawler-pi-charger:SI3434DV"
 			(pin_names
 				(offset 0)
@@ -2408,6 +2953,183 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "crawler-pi-charger:TMK325BJ106MM"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "10uF"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+				(at 0.9652 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/eu/detail?pn=TMK325BJ106MM-T"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "MLCC, 10uF, 25V, X5R, ±20%, 1210"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Taiyo Yuden"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "TMK325BJ106MM-T"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TMK325BJ106MM_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TMK325BJ106MM_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3128,6 +3850,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text_box "2. BATTERY CHARGER (SWITCHING BUCK CONVERTER)"
 		(exclude_from_sim no)
@@ -3144,30 +3981,12 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left top)
 		)
 		(uuid "1668b134-b290-47c9-b3af-5eacf5a8d241")
-	)
-	(text_box "Buck 15V -> 8V (external module)"
-		(exclude_from_sim no)
-		(at 64.77 20.32 0)
-		(size 53.34 19.05)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "23cb6f32-73e8-439c-b4a1-5630ee72a4fd")
 	)
 	(text_box "1. INPUT AND POWERPATH"
 		(exclude_from_sim no)
@@ -3191,67 +4010,173 @@
 		)
 		(uuid "5cc124cb-f4d1-4e56-b7c2-b9698c87685e")
 	)
+	(text_box "FDS6975 p-channel dual MOSEFT"
+		(exclude_from_sim no)
+		(at 64.77 24.13 0)
+		(size 35.56 33.02)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "e7c760e1-9d5d-4e33-ac2c-3900fac942e8")
+	)
 	(junction
-		(at 234.95 48.26)
+		(at 125.73 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01b6653d-43e1-45d2-a2fb-d9c0db32c001")
+	)
+	(junction
+		(at 195.58 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "06c15158-b65f-43ed-b890-7e3600869cb5")
 	)
 	(junction
-		(at 232.41 48.26)
+		(at 219.71 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26aa0a98-f368-45f7-8303-31e7bbf21efc")
+	)
+	(junction
+		(at 125.73 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "484ccf0f-409d-4b1f-a4d8-86b6d5aac088")
+	)
+	(junction
+		(at 151.13 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4df25a3e-cbf9-4c29-aad8-4a566c342426")
+	)
+	(junction
+		(at 193.04 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70ca9968-ed0b-4293-ad40-56071f80d05a")
 	)
 	(junction
-		(at 234.95 43.18)
+		(at 116.84 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "716c9009-2fd7-4d56-8228-7134b1541759")
+	)
+	(junction
+		(at 195.58 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "739e5f2f-dbd0-46b5-a415-76e7de179c7a")
 	)
 	(junction
-		(at 232.41 43.18)
+		(at 193.04 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d3f4110-3de0-479e-952d-d13801a867d7")
 	)
 	(junction
-		(at 246.38 43.18)
+		(at 80.01 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7dc06a3e-b2c3-4b18-851b-363b7b0b7714")
+	)
+	(junction
+		(at 76.2 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87437a83-ab0e-442e-bf6a-f528f6c364e4")
+	)
+	(junction
+		(at 80.01 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "919735e6-77a5-443e-89c8-782e47fc42d2")
+	)
+	(junction
+		(at 34.29 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9a4352e-c788-4418-9b99-9832c3065389")
+	)
+	(junction
+		(at 207.01 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ade663b0-4bbb-46b3-9ec3-c902b0f9df8c")
 	)
 	(junction
-		(at 237.49 48.26)
+		(at 198.12 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bce03eb8-0759-48d1-a433-5b66b4b81341")
 	)
 	(junction
-		(at 241.3 43.18)
+		(at 76.2 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca8a37be-3f14-4694-919a-114bb15d3848")
+	)
+	(junction
+		(at 201.93 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d204a6c6-180f-462a-8b37-f31c201037e7")
 	)
 	(junction
-		(at 237.49 43.18)
+		(at 219.71 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4819513-3323-4039-a3a6-6313101304b0")
+	)
+	(junction
+		(at 198.12 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f28dc403-54cb-46be-ae47-fe6cec80a92b")
 	)
 	(wire
 		(pts
-			(xy 222.25 53.34) (xy 213.36 53.34)
+			(xy 248.92 22.86) (xy 248.92 25.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0488deaa-5fc3-4caf-b7f1-0326a0cdf01e")
+		(uuid "05df3792-0a94-4694-b373-f1d823272cf0")
 	)
 	(wire
 		(pts
-			(xy 167.64 73.66) (xy 177.8 73.66)
+			(xy 53.34 49.53) (xy 68.58 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08344f8b-b117-43e7-b82a-32e9b12902b9")
+	)
+	(wire
+		(pts
+			(xy 116.84 40.64) (xy 125.73 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "086f0d97-cf3f-46cc-b0c9-c22d6f3ed16a")
+	)
+	(wire
+		(pts
+			(xy 166.37 73.66) (xy 177.8 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3261,27 +4186,37 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 29.21) (xy 68.58 29.21)
+			(xy 33.02 29.21) (xy 34.29 29.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0b5c0bf9-74ae-43bd-8525-cb985034ebac")
+		(uuid "0acd084b-4354-488f-8141-e51a5de941d3")
 	)
 	(wire
 		(pts
-			(xy 167.64 71.12) (xy 177.8 71.12)
+			(xy 166.37 83.82) (xy 177.8 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "162c3b63-188e-4cae-bf93-401bede3d837")
+		(uuid "0b02d982-bea2-4431-b621-0d7b94a4c0a4")
 	)
 	(wire
 		(pts
-			(xy 213.36 38.1) (xy 222.25 38.1)
+			(xy 151.13 106.68) (xy 151.13 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dfbd0ac-8220-4cc2-9b6b-dc87f2405d6e")
+	)
+	(wire
+		(pts
+			(xy 176.53 29.21) (xy 182.88 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3291,7 +4226,57 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 43.18) (xy 259.08 43.18)
+			(xy 76.2 40.64) (xy 116.84 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dafb4cf-a51e-4661-980d-9c5893daab5d")
+	)
+	(wire
+		(pts
+			(xy 76.2 40.64) (xy 76.2 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f026caa-b169-485a-8f10-4f50be46e665")
+	)
+	(wire
+		(pts
+			(xy 219.71 67.31) (xy 238.76 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26abc204-b569-4518-bd48-f4ce0dc4cfd7")
+	)
+	(wire
+		(pts
+			(xy 40.64 31.75) (xy 33.02 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "296ea51a-9ab7-4c42-8ee2-da71bfc8c080")
+	)
+	(wire
+		(pts
+			(xy 248.92 20.32) (xy 260.35 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a1cc1d9-ce22-4207-b800-3cf1d00cf791")
+	)
+	(wire
+		(pts
+			(xy 207.01 34.29) (xy 219.71 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3301,7 +4286,27 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 43.18) (xy 234.95 43.18)
+			(xy 176.53 24.13) (xy 190.5 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31481ab0-3907-4b0f-934b-4f7c93bf7acb")
+	)
+	(wire
+		(pts
+			(xy 176.53 50.8) (xy 190.5 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34e8af3a-ba95-4fc4-9d36-ea90967dbd52")
+	)
+	(wire
+		(pts
+			(xy 193.04 34.29) (xy 195.58 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3311,7 +4316,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 43.18) (xy 259.08 45.72)
+			(xy 219.71 34.29) (xy 219.71 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3321,17 +4326,77 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 31.75) (xy 44.45 31.75)
+			(xy 219.71 54.61) (xy 238.76 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4c447f14-7e92-4bad-97b1-532bbfbfef48")
+		(uuid "3dc3a9ed-831d-4aba-8aac-e1a0982741b1")
 	)
 	(wire
 		(pts
-			(xy 241.3 43.18) (xy 241.3 48.26)
+			(xy 156.21 110.49) (xy 156.21 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "419f7e36-cf7f-401d-81e8-d0ae92ec1ee1")
+	)
+	(wire
+		(pts
+			(xy 116.84 52.07) (xy 144.78 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4364407b-1807-4052-8923-0f7d7ad8509c")
+	)
+	(wire
+		(pts
+			(xy 80.01 29.21) (xy 104.14 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43bf6f80-c621-469c-8fdf-5157ac2ff85d")
+	)
+	(wire
+		(pts
+			(xy 190.5 49.53) (xy 190.5 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c49634d-f87a-4b35-87c8-a88ce68a2d2b")
+	)
+	(wire
+		(pts
+			(xy 254 40.64) (xy 254 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e13b1d2-af5a-4fee-a921-a14ada18b7ff")
+	)
+	(wire
+		(pts
+			(xy 219.71 46.99) (xy 219.71 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "511158eb-6458-4671-8b6e-6c306b7710a6")
+	)
+	(wire
+		(pts
+			(xy 201.93 34.29) (xy 201.93 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3341,7 +4406,37 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 48.26) (xy 237.49 48.26)
+			(xy 128.27 66.04) (xy 140.97 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55e45a61-bc51-4e3d-8b3f-b968c414ac06")
+	)
+	(wire
+		(pts
+			(xy 125.73 38.1) (xy 125.73 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57775fc3-9c3e-4167-b040-c2a9c7e2c12c")
+	)
+	(wire
+		(pts
+			(xy 219.71 62.23) (xy 219.71 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b74cf67-8b8c-43a7-8d26-ff1949dbaab1")
+	)
+	(wire
+		(pts
+			(xy 195.58 39.37) (xy 198.12 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3351,17 +4446,67 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 31.75) (xy 130.81 31.75)
+			(xy 125.73 29.21) (xy 125.73 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6c78cb8b-71ea-4721-ab35-a04e51cc9cfe")
+		(uuid "5fb2c38d-967b-460a-a3e6-37e3424af021")
 	)
 	(wire
 		(pts
-			(xy 232.41 48.26) (xy 234.95 48.26)
+			(xy 260.35 22.86) (xy 248.92 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fd73a67-04f3-458b-8999-dd1c0fcb7591")
+	)
+	(wire
+		(pts
+			(xy 34.29 25.4) (xy 34.29 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67cafdc8-f369-463e-b832-4c86cf9fdb56")
+	)
+	(wire
+		(pts
+			(xy 125.73 40.64) (xy 144.78 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75c36e1a-67e6-40b7-9901-caa940b3f662")
+	)
+	(wire
+		(pts
+			(xy 156.21 110.49) (xy 170.18 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75e3bd66-0c5e-40fe-9152-71b63c95acb0")
+	)
+	(wire
+		(pts
+			(xy 137.16 110.49) (xy 151.13 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79d0fd0d-145d-4d35-9e8d-a85c8995991f")
+	)
+	(wire
+		(pts
+			(xy 193.04 39.37) (xy 195.58 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3371,7 +4516,17 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 48.26) (xy 232.41 48.26)
+			(xy 128.27 71.12) (xy 140.97 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f9dbdad-5a4c-4e6c-a762-16c6a4bd8ee7")
+	)
+	(wire
+		(pts
+			(xy 190.5 39.37) (xy 193.04 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3381,7 +4536,17 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 53.34) (xy 246.38 55.88)
+			(xy 176.53 44.45) (xy 182.88 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "852450f2-8c98-4241-9369-974da5adab14")
+	)
+	(wire
+		(pts
+			(xy 207.01 44.45) (xy 207.01 46.99)
 		)
 		(stroke
 			(width 0)
@@ -3391,7 +4556,27 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 48.26) (xy 241.3 48.26)
+			(xy 111.76 29.21) (xy 125.73 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bc09425-faa2-450f-b22b-401c1dc3179e")
+	)
+	(wire
+		(pts
+			(xy 248.92 38.1) (xy 260.35 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bf50606-6607-459d-8da4-f5081e9f714e")
+	)
+	(wire
+		(pts
+			(xy 198.12 39.37) (xy 201.93 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3401,17 +4586,47 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 31.75) (xy 68.58 31.75)
+			(xy 116.84 52.07) (xy 116.84 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ac0dfce9-7d06-4069-8b26-ecc07e1ca276")
+		(uuid "ab36b984-ca92-4005-ad16-b1c2fedf5f94")
 	)
 	(wire
 		(pts
-			(xy 229.87 43.18) (xy 232.41 43.18)
+			(xy 166.37 78.74) (xy 177.8 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acbafa76-d9bf-4855-adbd-ee0d7e18aa07")
+	)
+	(wire
+		(pts
+			(xy 53.34 34.29) (xy 68.58 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2fd53e3-ac31-412c-acac-90bcfcb8e254")
+	)
+	(wire
+		(pts
+			(xy 34.29 29.21) (xy 80.01 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b676beeb-b911-4685-b674-aa8cbf777279")
+	)
+	(wire
+		(pts
+			(xy 190.5 34.29) (xy 193.04 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3421,7 +4636,57 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 43.18) (xy 246.38 43.18)
+			(xy 153.67 54.61) (xy 166.37 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b864e14b-9b66-43c1-ba31-45c91a5f3610")
+	)
+	(wire
+		(pts
+			(xy 80.01 54.61) (xy 110.49 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4548c1-397a-45bb-8347-6ee054d08058")
+	)
+	(wire
+		(pts
+			(xy 219.71 46.99) (xy 238.76 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2db18c3-8c2a-4ea6-847e-659246d67462")
+	)
+	(wire
+		(pts
+			(xy 76.2 39.37) (xy 76.2 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5a63404-2848-4182-a0fe-059a09d41bd1")
+	)
+	(wire
+		(pts
+			(xy 151.13 110.49) (xy 151.13 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7576833-cb3b-4bf2-8678-5afa364c6501")
+	)
+	(wire
+		(pts
+			(xy 201.93 34.29) (xy 207.01 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3431,7 +4696,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 43.18) (xy 246.38 45.72)
+			(xy 207.01 34.29) (xy 207.01 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3441,17 +4706,47 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 29.21) (xy 138.43 29.21)
+			(xy 166.37 71.12) (xy 177.8 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ce2f1f03-d121-4ee1-9720-cb5209ab7d3a")
+		(uuid "d0f1cd60-1c5f-4934-90e5-3f24788fdf73")
 	)
 	(wire
 		(pts
-			(xy 237.49 43.18) (xy 241.3 43.18)
+			(xy 260.35 40.64) (xy 254 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d44c6f36-d5d5-44f2-af5f-187cb4eb68a6")
+	)
+	(wire
+		(pts
+			(xy 153.67 60.96) (xy 153.67 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6b7a540-2800-4828-ba05-6530fd2b2261")
+	)
+	(wire
+		(pts
+			(xy 40.64 31.75) (xy 40.64 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7b283e0-0728-4e49-a9e1-7e0ec0b3c2a5")
+	)
+	(wire
+		(pts
+			(xy 198.12 34.29) (xy 201.93 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3461,7 +4756,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 43.18) (xy 237.49 43.18)
+			(xy 195.58 34.29) (xy 198.12 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3469,8 +4764,28 @@
 		)
 		(uuid "ebbe3cf6-e623-4b5b-9828-9d33b6692d3c")
 	)
+	(wire
+		(pts
+			(xy 76.2 54.61) (xy 80.01 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f41c441a-eaee-43a2-ab67-585aa7a866d8")
+	)
+	(wire
+		(pts
+			(xy 125.73 29.21) (xy 144.78 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ac3d40-de7a-4eef-8ad5-27f952a2a52e")
+	)
 	(label "TGATE"
-		(at 213.36 38.1 0)
+		(at 176.53 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3479,18 +4794,88 @@
 		)
 		(uuid "0086d06c-b444-4cb2-85fd-21db1e67fc6e")
 	)
-	(label ""
-		(at 123.19 31.75 0)
+	(label "Q1B_GATE"
+		(at 135.89 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "4dcee2bf-e953-45ff-b79b-6e82455c17e2")
+		(uuid "071cea66-a06f-4c50-836c-026b4942e454")
 	)
-	(label "GND"
-		(at 246.38 55.88 0)
+	(label "SENSE"
+		(at 232.41 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d891f1d-a709-45db-8322-cad2303dc431")
+	)
+	(label "BAT_7V2"
+		(at 231.14 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "13b61046-077e-43b1-9d20-0e6391b5d487")
+	)
+	(label "Q1B_GATE"
+		(at 53.34 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2f4f0e87-4849-4ac3-b3c9-bf7d45419e0d")
+	)
+	(label "BAT_7V2"
+		(at 248.92 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4390bf63-0889-4794-acaf-9e87c5ae0a8d")
+	)
+	(label "BAT_7V2"
+		(at 170.18 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46e31a2e-2655-4431-96f1-661fbe456696")
+	)
+	(label "PGND"
+		(at 233.68 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c08b943-ba9d-432e-a417-f056c0205c1a")
+	)
+	(label "PGND"
+		(at 165.1 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c5465ae-9159-421a-86b9-d6f0b2042a26")
+	)
+	(label "PGND"
+		(at 207.01 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3499,8 +4884,38 @@
 		)
 		(uuid "4fc02cb9-9b36-49d9-88c3-71376a5afac0")
 	)
+	(label "SYS_LOAD"
+		(at 156.21 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "53cfba4e-20eb-4665-a3e4-fb73dbc9c976")
+	)
+	(label "INFET"
+		(at 53.34 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "583f0812-0b3a-4ed8-9613-7cd71e7f3315")
+	)
+	(label "SYS_LOAD"
+		(at 176.53 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5eae19d6-a9c3-4f58-b5ad-7f869f8cb840")
+	)
 	(label "SW"
-		(at 245.11 43.18 0)
+		(at 205.74 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3509,18 +4924,18 @@
 		)
 		(uuid "5f61071f-9c35-4e34-9822-4cab309e3f87")
 	)
-	(label "GND"
-		(at 120.65 31.75 0)
+	(label "SYS_LOAD"
+		(at 135.89 40.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "6002d5ce-b7e0-4bc8-ad52-f401fbf50abd")
+		(uuid "5ff2ee1a-3049-4661-a38d-6815d969aef8")
 	)
-	(label "DOCK_15V_RAW"
-		(at 39.37 29.21 0)
+	(label "DOCK_12V3"
+		(at 36.83 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3529,8 +4944,48 @@
 		)
 		(uuid "6118d5d6-6d72-4592-97a4-8a5452a10675")
 	)
+	(label ""
+		(at 260.35 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6d277860-93d6-4bb2-9e95-0b8a3a1ebde4")
+	)
+	(label "GND"
+		(at 137.16 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "73539126-4bab-4b27-bda5-403fa95e1e21")
+	)
+	(label "GND"
+		(at 254 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8014d78e-0813-4f7c-a829-3a8e614df2e3")
+	)
+	(label "GND"
+		(at 248.92 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "831f9b8e-ecc3-479b-88b9-62b6460e0856")
+	)
 	(label "BGATE"
-		(at 213.36 53.34 0)
+		(at 176.53 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3538,6 +4993,46 @@
 			(justify left bottom)
 		)
 		(uuid "8a85e76f-04c2-4859-bfd7-a96fda39d785")
+	)
+	(label "PGND"
+		(at 139.7 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "992059ec-5292-4445-b7b6-5df006576975")
+	)
+	(label "INFET"
+		(at 128.27 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9bfeb900-400f-416e-8a54-0176a23dfab2")
+	)
+	(label "SENSE"
+		(at 171.45 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aeeb3c58-ec60-4939-960b-7596211051af")
+	)
+	(label "PGND"
+		(at 176.53 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c02ddcbc-83c8-4ae9-9ef7-996b77d1b2f8")
 	)
 	(label "BGATE"
 		(at 171.45 73.66 0)
@@ -3549,18 +5044,18 @@
 		)
 		(uuid "c19b13ed-60e4-43b5-ad96-81fe47d5a3cf")
 	)
-	(label "BUCK_8V_OUT"
-		(at 120.65 29.21 0)
+	(label "DOCK_12V3"
+		(at 128.27 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "cf3fac46-1c4a-4ef9-b704-2c291e2d02a8")
+		(uuid "c6f3c243-1fab-4ae1-8147-d69c749949e0")
 	)
 	(label "GND"
-		(at 39.37 31.75 0)
+		(at 36.83 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3569,15 +5064,25 @@
 		)
 		(uuid "db147bac-a33e-4d11-ba3c-1e18ee26095c")
 	)
-	(label "TGATE"
-		(at 198.12 82.55 0)
+	(label ""
+		(at 219.71 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f80b525d-780e-4b3d-854a-0a005f5cfceb")
+		(uuid "e509a973-796c-48e3-ac7d-6a9f3aeeaf39")
+	)
+	(label "BAT_7V2"
+		(at 102.87 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e9eb862b-1ea1-49dc-9aad-859ff8b2ff62")
 	)
 	(label "TGATE"
 		(at 171.45 71.12 0)
@@ -3589,19 +5094,19 @@
 		)
 		(uuid "f84d73ba-36be-4164-b606-50006b917c9d")
 	)
-	(label "GND"
-		(at 59.69 31.75 0)
+	(label "SYS_LOAD"
+		(at 248.92 20.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "fbfb42ad-5d97-41fa-a032-2a62c8b7a887")
+		(uuid "f87404c2-c67e-4019-82c7-557ba5e1e5f3")
 	)
 	(symbol
 		(lib_id "Battery_Management:LTC4011CFE")
-		(at 154.94 83.82 0)
+		(at 153.67 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3612,7 +5117,7 @@
 		(fields_autoplaced yes)
 		(uuid "070671de-b3e1-407f-8d3d-9cd3506fc2e7")
 		(property "Reference" "U1"
-			(at 157.0833 58.42 0)
+			(at 155.8133 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3623,7 +5128,7 @@
 			)
 		)
 		(property "Value" "LTC4011CFE"
-			(at 157.0833 60.96 0)
+			(at 155.8133 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3634,7 +5139,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm"
-			(at 154.94 86.36 0)
+			(at 153.67 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3645,7 +5150,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf"
-			(at 153.67 83.82 0)
+			(at 152.4 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3656,7 +5161,7 @@
 			)
 		)
 		(property "Description" "High efficiency standalone NiMH battery charger, HTSSOP-20"
-			(at 154.94 83.82 0)
+			(at 153.67 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3740,7 +5245,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:UPS140")
-		(at 246.38 49.53 90)
+		(at 207.01 40.64 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -3750,8 +5255,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08984c48-4967-4a36-8535-d675b922db20")
-		(property "Reference" "D1"
-			(at 248.92 50.4826 90)
+		(property "Reference" "D6"
+			(at 209.55 41.5926 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3762,7 +5267,7 @@
 			)
 		)
 		(property "Value" "UPS140"
-			(at 248.92 47.9426 90)
+			(at 209.55 39.0526 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3773,7 +5278,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_Powermite_LargeCathode"
-			(at 246.38 49.53 0)
+			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3784,7 +5289,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C3757274.pdf"
-			(at 246.38 49.53 0)
+			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3795,7 +5300,7 @@
 			)
 		)
 		(property "Description" "Schottky Rectifier, 1 A, 40 V"
-			(at 246.38 49.53 0)
+			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3806,7 +5311,7 @@
 			)
 		)
 		(property "Manufacturer" "Microchip Technology"
-			(at 246.38 49.53 0)
+			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3817,7 +5322,7 @@
 			)
 		)
 		(property "MPN" "UPS140E3/TR7"
-			(at 246.38 49.53 0)
+			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3828,7 +5333,7 @@
 			)
 		)
 		(property "LCSC" "C3757274"
-			(at 246.38 49.53 0)
+			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3839,7 +5344,7 @@
 			)
 		)
 		(property "Package" "DO-216AA (Powermite 1)"
-			(at 246.38 49.53 0)
+			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3858,7 +5363,277 @@
 		(instances
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 151.13 113.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0caaaa10-810b-4199-bd71-75041027bf08")
+		(property "Reference" "#PWR06"
+			(at 151.13 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 151.13 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 151.13 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "014217db-1b06-4b6d-916d-c08e2f85065e")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "crawler-pi-charger:MMSZ5248BS")
+		(at 125.73 34.29 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1760c21d-0e25-4915-8065-3546ebb60fd2")
+		(property "Reference" "D1"
+			(at 128.27 33.0199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MMSZ5248BS-7"
+			(at 128.27 35.5599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 125.73 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C460919.pdf"
+			(at 125.73 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "18V Zener diode, SOD-323"
+			(at 125.73 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 125.73 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MMSZ5248BS-7"
+			(at 125.73 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C460919"
+			(at 125.73 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c9635d1b-032c-4004-a2f7-8ce857a5720d")
+		)
+		(pin "1"
+			(uuid "6b449c05-3cc1-4108-a15c-5070a3fe43df")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 254 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "23a6e947-116c-4daf-b852-d1324dcc4106")
+		(property "Reference" "#PWR05"
+			(at 254 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 49.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 254 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2b09cc0b-82ab-4cee-b770-572af1ded32a")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3867,7 +5642,7 @@
 	(symbol
 		(lib_name "FDS6975_1")
 		(lib_id "crawler-pi-charger:FDS6975")
-		(at 30.48 49.53 0)
+		(at 73.66 34.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3878,7 +5653,7 @@
 		(fields_autoplaced yes)
 		(uuid "37e41107-cc4a-401a-b319-63764e8ea35c")
 		(property "Reference" "Q1"
-			(at 36.83 48.2599 0)
+			(at 80.01 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3889,7 +5664,7 @@
 			)
 		)
 		(property "Value" "FDS6975"
-			(at 36.83 50.7999 0)
+			(at 80.01 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3900,7 +5675,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 35.56 51.435 0)
+			(at 78.74 36.195 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3913,7 +5688,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/fds6975-d.pdf"
-			(at 35.56 53.34 0)
+			(at 78.74 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3925,7 +5700,7 @@
 			)
 		)
 		(property "Description" "Dual P-Channel MOSFET, -30V, -6A, 32mOhm, SO-8"
-			(at 30.48 49.53 0)
+			(at 73.66 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3936,7 +5711,7 @@
 			)
 		)
 		(property "Keywords" "P-Channel MOSFET Dual PowerPath"
-			(at 30.48 49.53 0)
+			(at 73.66 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3947,7 +5722,7 @@
 			)
 		)
 		(property "Manufacturer" "onsemi"
-			(at 30.48 49.53 0)
+			(at 73.66 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3958,7 +5733,7 @@
 			)
 		)
 		(property "MPN" "FDS6975"
-			(at 30.48 49.53 0)
+			(at 73.66 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3969,7 +5744,7 @@
 			)
 		)
 		(property "LCSC" "C903635"
-			(at 30.48 49.53 0)
+			(at 73.66 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4013,8 +5788,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 130.81 31.75 0)
+		(lib_id "crawler-pi-charger:TMK325BJ106MM")
+		(at 219.71 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4023,9 +5798,113 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "46bca856-7314-4512-9d14-f47114ac6415")
-		(property "Reference" "#PWR03"
-			(at 130.81 38.1 0)
+		(uuid "5f6cb546-d3de-4426-93d0-535491f62d62")
+		(property "Reference" "C2"
+			(at 223.52 57.1499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 223.52 59.6899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+			(at 220.6752 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/eu/detail?pn=TMK325BJ106MM-T"
+			(at 219.71 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MLCC, 10uF, 25V, X5R, ±20%, 1210"
+			(at 219.71 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 219.71 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK325BJ106MM-T"
+			(at 219.71 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "45763eeb-19cf-4bcb-8a9d-69ff469e3f3c")
+		)
+		(pin "1"
+			(uuid "955b26ed-c8ac-44dc-b7e8-6eae8f07dec7")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 248.92 25.4 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70613d62-8c88-417d-86b2-624a6a7bcc2c")
+		(property "Reference" "#PWR02"
+			(at 248.92 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4036,7 +5915,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 36.83 0)
+			(at 248.92 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4046,7 +5925,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 31.75 0)
+			(at 248.92 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4057,7 +5936,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 31.75 0)
+			(at 248.92 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4068,7 +5947,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 31.75 0)
+			(at 248.92 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4079,20 +5958,20 @@
 			)
 		)
 		(pin "1"
-			(uuid "a17c77e9-e3ff-41c3-85c3-34d2a9987e3e")
+			(uuid "3fbcf345-f0a7-4732-9f24-b34869120d74")
 		)
 		(instances
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR03")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 73.66 29.21 0)
+		(lib_id "crawler-pi-charger:TMK325BJ106MM")
+		(at 116.84 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4100,9 +5979,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "73e10214-58dc-41c5-b374-b50f104be025")
-		(property "Reference" "J3"
-			(at 76.2 29.2099 0)
+		(fields_autoplaced yes)
+		(uuid "88b9f434-fb68-4b5d-a865-9626b3a3064c")
+		(property "Reference" "C1"
+			(at 120.65 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4112,8 +5992,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BUCK_IN_15V"
-			(at 76.2 31.7499 0)
+		(property "Value" "10uF"
+			(at 120.65 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4123,8 +6003,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 73.66 29.21 0)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+			(at 117.8052 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4134,8 +6014,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 73.66 29.21 0)
+		(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/eu/detail?pn=TMK325BJ106MM-T"
+			(at 116.84 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4145,8 +6025,8 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 73.66 29.21 0)
+		(property "Description" "MLCC, 10uF, 25V, X5R, ±20%, 1210"
+			(at 116.84 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4156,16 +6036,38 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "55d150ff-6693-4757-8024-3f3c55a01a3c")
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 116.84 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK325BJ106MM-T"
+			(at 116.84 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
-			(uuid "2dd035e0-e3ee-402a-bb8c-20f00598882a")
+			(uuid "f2074c96-5788-49e7-8774-b79cba272f74")
+		)
+		(pin "1"
+			(uuid "3cad0f51-0a95-4736-9121-6fec3d70eb12")
 		)
 		(instances
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "J3")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -4173,7 +6075,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:WURTH74437349100")
-		(at 259.08 49.53 270)
+		(at 219.71 40.64 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4184,7 +6086,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e7f5102-ec02-4fab-8521-92dd533f2a3a")
 		(property "Reference" "L1"
-			(at 261.62 48.0376 90)
+			(at 222.25 39.1476 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4195,7 +6097,7 @@
 			)
 		)
 		(property "Value" "10.0 uH"
-			(at 256.54 49.53 0)
+			(at 217.17 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4206,7 +6108,7 @@
 			)
 		)
 		(property "Footprint" "crawler:L_Wurth_WE-LHMI-7050"
-			(at 266.7 49.53 0)
+			(at 227.33 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4217,7 +6119,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/74437349100.pdf?ki"
-			(at 276.86 101.6 0)
+			(at 237.49 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4228,7 +6130,7 @@
 			)
 		)
 		(property "Description" "Shielded Power Inductor"
-			(at 259.08 49.53 0)
+			(at 219.71 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4239,7 +6141,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 274.32 101.6 0)
+			(at 234.95 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4250,7 +6152,7 @@
 			)
 		)
 		(property "Manufacturer URL" "https://www.we-online.com"
-			(at 271.78 101.6 0)
+			(at 232.41 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4261,7 +6163,7 @@
 			)
 		)
 		(property "Created Date" "20250218"
-			(at 269.24 101.6 0)
+			(at 229.87 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4272,7 +6174,7 @@
 			)
 		)
 		(property "Series" "WE-LHMI"
-			(at 266.7 101.6 0)
+			(at 227.33 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4283,7 +6185,7 @@
 			)
 		)
 		(property "Part Number" "74437349100"
-			(at 264.16 101.6 0)
+			(at 224.79 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4294,7 +6196,7 @@
 			)
 		)
 		(property "Size" "7050"
-			(at 261.62 101.6 0)
+			(at 222.25 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4305,7 +6207,7 @@
 			)
 		)
 		(property "Mounting Technology" "SMT"
-			(at 259.08 101.6 0)
+			(at 219.71 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4316,7 +6218,7 @@
 			)
 		)
 		(property "L (uH)" "10.0"
-			(at 256.54 101.6 0)
+			(at 217.17 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4327,7 +6229,7 @@
 			)
 		)
 		(property "IRP,40K (A)" "4.05"
-			(at 254 101.6 0)
+			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4338,7 +6240,7 @@
 			)
 		)
 		(property "ISAT,10% (A)" "5.6"
-			(at 251.46 101.6 0)
+			(at 212.09 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4349,7 +6251,7 @@
 			)
 		)
 		(property "ISAT,30% (A)" "10.5"
-			(at 248.92 101.6 0)
+			(at 209.55 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4360,7 +6262,7 @@
 			)
 		)
 		(property "RDC max. (mohm)" "69.0"
-			(at 246.38 101.6 0)
+			(at 207.01 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4371,7 +6273,7 @@
 			)
 		)
 		(property "fres (MHz)" "12.0"
-			(at 243.84 101.6 0)
+			(at 204.47 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4382,7 +6284,7 @@
 			)
 		)
 		(property "Critical Parameter" "10.0 uH"
-			(at 261.62 50.5776 90)
+			(at 222.25 41.6876 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4393,7 +6295,7 @@
 			)
 		)
 		(property "MPN" "74437349100"
-			(at 259.08 49.53 0)
+			(at 219.71 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4404,7 +6306,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 259.08 49.53 0)
+			(at 219.71 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4431,7 +6333,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:FDC658AP")
-		(at 227.33 38.1 0)
+		(at 187.96 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4441,7 +6343,7 @@
 		(dnp no)
 		(uuid "91209d8a-e5d4-40c9-8cc3-2d3439d0ceba")
 		(property "Reference" "Q2"
-			(at 234.188 35.814 0)
+			(at 194.818 26.924 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4452,7 +6354,7 @@
 			)
 		)
 		(property "Value" "FDC658AP"
-			(at 234.188 38.354 0)
+			(at 194.818 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4463,7 +6365,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SuperSOT-6"
-			(at 232.41 35.56 0)
+			(at 193.04 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4474,7 +6376,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/fdc658ap-d.pdf"
-			(at 227.33 38.1 0)
+			(at 187.96 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4485,7 +6387,7 @@
 			)
 		)
 		(property "Description" "P-Channel MOSFET, -30 V, -4 A, SuperSOT-6"
-			(at 227.33 38.1 0)
+			(at 187.96 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4496,7 +6398,7 @@
 			)
 		)
 		(property "Keywords" "MOSFET PMOS P-Channel SuperSOT-6 FDC658AP"
-			(at 227.33 38.1 0)
+			(at 187.96 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4507,7 +6409,7 @@
 			)
 		)
 		(property "Manufacturer" "onsemi"
-			(at 227.33 38.1 0)
+			(at 187.96 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4518,7 +6420,7 @@
 			)
 		)
 		(property "MPN" "FDC658AP"
-			(at 227.33 38.1 0)
+			(at 187.96 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4529,7 +6431,7 @@
 			)
 		)
 		(property "LCSC" "C3280198"
-			(at 227.33 38.1 0)
+			(at 187.96 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4568,7 +6470,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:SI3434DV")
-		(at 227.33 53.34 0)
+		(at 187.96 44.45 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -4579,7 +6481,7 @@
 		(dnp no)
 		(uuid "9bc07255-e6dc-459a-b7e7-ae704c0bf621")
 		(property "Reference" "Q3"
-			(at 233.68 55.626 0)
+			(at 194.31 46.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4590,7 +6492,7 @@
 			)
 		)
 		(property "Value" "SI3434DV"
-			(at 233.68 53.086 0)
+			(at 194.31 44.196 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4601,7 +6503,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm"
-			(at 232.41 55.88 0)
+			(at 193.04 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4612,7 +6514,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ic-components.cz/files/c6/SI3434DV-T1-GE3.pdf"
-			(at 227.33 53.34 0)
+			(at 187.96 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4623,7 +6525,7 @@
 			)
 		)
 		(property "Description" "N-Channel MOSFET, 30 V, TSOP-6"
-			(at 227.33 53.34 0)
+			(at 187.96 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4634,7 +6536,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay"
-			(at 227.33 53.34 0)
+			(at 187.96 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4645,7 +6547,7 @@
 			)
 		)
 		(property "MPN" "SI3434DV-T1-E3"
-			(at 227.33 53.34 0)
+			(at 187.96 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4656,7 +6558,7 @@
 			)
 		)
 		(property "LCSC" "C5456592"
-			(at 227.33 53.34 0)
+			(at 187.96 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4695,167 +6597,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 57.15 31.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac52a653-0758-49d9-9d42-ccb44ea06d73")
-		(property "Reference" "#PWR02"
-			(at 57.15 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 57.15 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 57.15 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 57.15 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 57.15 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8660130a-eb4d-4633-94a1-31c89499f7bb")
-		)
-		(instances
-			(project "crawler-pi-charger"
-				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 106.68 29.21 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b117be0d-515c-45e9-80e7-f61d3fecfbda")
-		(property "Reference" "J4"
-			(at 104.14 29.2099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BUCK_OUT_8V"
-			(at 104.14 31.7499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 106.68 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 106.68 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c772bc26-f582-4187-91be-4d29adae8035")
-		)
-		(pin "2"
-			(uuid "29a4165d-88fd-4d6d-a550-efbf1d96f258")
-		)
-		(instances
-			(project "crawler-pi-charger"
-				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 246.38 55.88 0)
+		(at 207.01 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4866,7 +6608,7 @@
 		(fields_autoplaced yes)
 		(uuid "bcc0365a-1b50-432c-983e-5af2b5293084")
 		(property "Reference" "#PWR04"
-			(at 246.38 62.23 0)
+			(at 207.01 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4877,7 +6619,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 246.38 60.96 0)
+			(at 207.01 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4887,7 +6629,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 55.88 0)
+			(at 207.01 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4898,7 +6640,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 55.88 0)
+			(at 207.01 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4909,7 +6651,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 55.88 0)
+			(at 207.01 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4954,7 +6696,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DOCK_15V"
+		(property "Value" "DOCK_12V3"
 			(at 25.4 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5095,8 +6837,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 266.7 27.94 0)
+		(lib_id "crawler-pi-charger:ERJ-L08KJ50MV")
+		(at 219.71 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5104,9 +6846,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "efdfd12b-45bb-4f1b-a3f5-ed5b17021636")
-		(property "Reference" "J2"
-			(at 269.24 27.9399 0)
+		(fields_autoplaced yes)
+		(uuid "cd49767a-1103-4482-b1d4-a12184dd3fe4")
+		(property "Reference" "R6"
+			(at 222.25 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5116,8 +6859,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SYSTEM_8V"
-			(at 269.24 30.4799 0)
+		(property "Value" "0.05"
+			(at 222.25 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5127,8 +6870,235 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 266.7 27.94 0)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 217.932 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C3914720.pdf"
+			(at 219.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, 0.05Ω, 1/3W, 5% 1206"
+			(at 219.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 219.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-L08KJ50MV"
+			(at 219.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3914720"
+			(at 219.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5c2b82ec-d68f-45c7-97bd-9fc07904fa89")
+		)
+		(pin "1"
+			(uuid "caaf8da2-abf3-4612-9e91-523924434bb7")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "crawler-pi-charger:CRCW040247K0JNED")
+		(at 107.95 29.21 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2061291-b79e-44f0-b7f5-e05e44107eaa")
+		(property "Reference" "R1"
+			(at 107.95 22.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47k"
+			(at 107.95 25.4 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 107.95 30.988 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C71619.pdf"
+			(at 107.95 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, 47K, 1/16W, 5% 0402"
+			(at 107.95 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 107.95 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW040247K0JNED"
+			(at 107.95 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C71619"
+			(at 107.95 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e50aa60e-59e7-4e98-a11e-5102e8e0124c")
+		)
+		(pin "1"
+			(uuid "4229df65-a35e-42e3-84bb-3b211a41d50f")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 40.64 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dea10e18-b969-49e2-99a0-36bb8323c20d")
+		(property "Reference" "#PWR01"
+			(at 40.64 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 40.64 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 40.64 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5139,7 +7109,163 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 27.94 0)
+			(at 40.64 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 40.64 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c1ec31ef-a72a-4aa4-b44e-10fa060f1f2f")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 34.29 25.4 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e69b886d-8177-44f2-ad70-6631643d728b")
+		(property "Reference" "#FLG01"
+			(at 34.29 23.495 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 34.29 20.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 34.29 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "26961811-7110-4970-9b17-e4bb5259d78c")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 265.43 20.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "efdfd12b-45bb-4f1b-a3f5-ed5b17021636")
+		(property "Reference" "J2"
+			(at 267.97 20.3199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SYSTEM_8V"
+			(at 267.97 22.8599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 265.43 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5150,7 +7276,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 266.7 27.94 0)
+			(at 265.43 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5177,7 +7303,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 266.7 97.79 0)
+		(at 265.43 38.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5187,7 +7313,7 @@
 		(dnp no)
 		(uuid "f373c66c-eff0-451e-b104-079d0674dc24")
 		(property "Reference" "J6"
-			(at 269.24 97.7899 0)
+			(at 267.97 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5198,7 +7324,7 @@
 			)
 		)
 		(property "Value" "BAT_7V2"
-			(at 269.24 100.3299 0)
+			(at 267.97 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5209,7 +7335,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 266.7 97.79 0)
+			(at 265.43 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5220,7 +7346,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 97.79 0)
+			(at 265.43 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5231,7 +7357,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 266.7 97.79 0)
+			(at 265.43 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5258,7 +7384,8 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:FDS6975")
-		(at 30.48 64.77 0)
+		(at 73.66 49.53 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5266,10 +7393,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f8b2656e-6a76-4e32-8926-9ec9acdae12a")
 		(property "Reference" "Q1"
-			(at 36.83 63.4999 0)
+			(at 80.01 50.8001 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5280,7 +7406,7 @@
 			)
 		)
 		(property "Value" "FDS6975"
-			(at 36.83 66.0399 0)
+			(at 80.01 48.2601 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5291,7 +7417,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 35.56 66.675 0)
+			(at 78.74 47.625 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5304,7 +7430,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/fds6975-d.pdf"
-			(at 35.56 68.58 0)
+			(at 78.74 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5316,7 +7442,7 @@
 			)
 		)
 		(property "Description" "Dual P-Channel MOSFET, -30V, -6A, 32mOhm, SO-8"
-			(at 30.48 64.77 0)
+			(at 73.66 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5327,7 +7453,7 @@
 			)
 		)
 		(property "Keywords" "P-Channel MOSFET Dual PowerPath"
-			(at 30.48 64.77 0)
+			(at 73.66 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5338,7 +7464,7 @@
 			)
 		)
 		(property "Manufacturer" "onsemi"
-			(at 30.48 64.77 0)
+			(at 73.66 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5349,7 +7475,7 @@
 			)
 		)
 		(property "MPN" "FDS6975"
-			(at 30.48 64.77 0)
+			(at 73.66 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5360,7 +7486,7 @@
 			)
 		)
 		(property "LCSC" "C903635"
-			(at 30.48 64.77 0)
+			(at 73.66 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5399,84 +7525,6 @@
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
 					(reference "Q1")
 					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 44.45 31.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f94759a5-72ce-453a-b41e-ea9e4d748532")
-		(property "Reference" "#PWR01"
-			(at 44.45 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 44.45 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.45 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 44.45 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "86a81ce6-a618-4e53-8e98-601b45977696")
-		)
-		(instances
-			(project "crawler-pi-charger"
-				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR01")
-					(unit 1)
 				)
 			)
 		)
