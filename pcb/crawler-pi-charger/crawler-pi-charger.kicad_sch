@@ -1658,6 +1658,179 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "crawler-pi-charger:CRCW040228K0FKED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "28.0K"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C844308.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor, 28.0K, 1/16W, 1% 0402"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Vishay"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" " CRCW040228K0FKED"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C844308"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CRCW040228K0FKED_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CRCW040228K0FKED_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "crawler-pi-charger:CRCW040247K0JNED"
 			(pin_numbers
 				(hide yes)
@@ -1965,6 +2138,179 @@
 				)
 			)
 			(symbol "CRCW040249K9FKED_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "crawler-pi-charger:CRCW04029K76FKED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "9.76k"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C843909.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor, 9.76k, 1/16W, 1% 0402"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Vishay"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CRCW04029K76FKED"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C843909"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CRCW04029K76FKED_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CRCW04029K76FKED_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -3253,179 +3599,6 @@
 					(at 3.81 0 180)
 					(length 2.54)
 					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "crawler-pi-charger:RC0603FR-0710KL"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "10k"
-				(at 0 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-				(at -1.778 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Resistor, 10k, 1/10W, 1% 0603"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "YAGEO"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "RC0603FR-0710KL"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC" "C98220"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "RC0603FR-0710KL_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RC0603FR-0710KL_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4846,6 +5019,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Negative-temperature-coefficient (NTC) thermistor\nConnect external NTC thermistor:\nR25 = 10 kΩ at 25 °C\nβ ≈ 3750 K\nMount directly on battery pack surface."
+		(exclude_from_sim no)
+		(at 170.18 116.84 0)
+		(size 109.22 44.45)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right top)
+		)
+		(uuid "0250cc7b-0837-4287-be66-c924f7e883d7")
+	)
 	(text_box "BATTERY CHARGER (SWITCHING BUCK CONVERTER)"
 		(exclude_from_sim no)
 		(at 154.94 15.24 0)
@@ -4868,10 +5061,10 @@
 		)
 		(uuid "1668b134-b290-47c9-b3af-5eacf5a8d241")
 	)
-	(text_box "BATTERY MONITORING"
+	(text_box "BATTERY VOLTAGE AND TEMPERATURE MONITORING"
 		(exclude_from_sim no)
 		(at 154.94 77.47 0)
-		(size 127 86.36)
+		(size 127 85.09)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -4914,8 +5107,8 @@
 	)
 	(text_box "Voltage divider for 6 cells"
 		(exclude_from_sim no)
-		(at 205.74 82.55 0)
-		(size 46.99 44.45)
+		(at 208.28 81.28 0)
+		(size 71.12 33.02)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -4928,7 +5121,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left top)
+			(justify right top)
 		)
 		(uuid "6a614fb0-e7a5-48d7-9e0e-f233a099933a")
 	)
@@ -4977,12 +5170,6 @@
 		(uuid "3149ba37-e298-4b2b-9865-6440400f477c")
 	)
 	(junction
-		(at 228.6 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44cf5bbb-9064-45fa-b2b4-2dc67f054c49")
-	)
-	(junction
 		(at 125.73 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5011,6 +5198,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "739e5f2f-dbd0-46b5-a415-76e7de179c7a")
+	)
+	(junction
+		(at 209.55 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7712f829-db12-45b6-a292-2d6445b6bd39")
 	)
 	(junction
 		(at 193.04 34.29)
@@ -5049,6 +5242,12 @@
 		(uuid "ade663b0-4bbb-46b3-9ec3-c902b0f9df8c")
 	)
 	(junction
+		(at 185.42 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b392deb7-79a7-4f70-88a3-db2c85dc8ce9")
+	)
+	(junction
 		(at 198.12 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5079,20 +5278,20 @@
 		(uuid "f28dc403-54cb-46be-ae47-fe6cec80a92b")
 	)
 	(junction
-		(at 189.23 90.17)
+		(at 223.52 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8d6011f-bdfb-4ca8-bfee-0b667a6e9d0d")
 	)
 	(wire
 		(pts
-			(xy 228.6 101.6) (xy 228.6 104.14)
+			(xy 209.55 133.35) (xy 264.16 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "017e7f74-1616-4f7b-af26-ab00a6f805f4")
+		(uuid "00a060ed-1180-41cf-9593-9c57faf0ae23")
 	)
 	(wire
 		(pts
@@ -5206,13 +5405,13 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 67.31) (xy 232.41 67.31)
+			(xy 185.42 133.35) (xy 185.42 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "26abc204-b569-4518-bd48-f4ce0dc4cfd7")
+		(uuid "29570030-a3bf-4262-91ec-04e339378871")
 	)
 	(wire
 		(pts
@@ -5233,6 +5432,16 @@
 			(type default)
 		)
 		(uuid "2a1cc1d9-ce22-4207-b800-3cf1d00cf791")
+	)
+	(wire
+		(pts
+			(xy 186.69 67.31) (xy 186.69 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a542aa0-b5ea-4165-aaf0-691155572151")
 	)
 	(wire
 		(pts
@@ -5366,6 +5575,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 143.51) (xy 185.42 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5343bd91-1304-48b3-baeb-c306376dacab")
+	)
+	(wire
+		(pts
 			(xy 125.73 67.31) (xy 138.43 67.31)
 		)
 		(stroke
@@ -5383,6 +5602,16 @@
 			(type default)
 		)
 		(uuid "57775fc3-9c3e-4167-b040-c2a9c7e2c12c")
+	)
+	(wire
+		(pts
+			(xy 199.39 133.35) (xy 209.55 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b657d27-b41e-465d-ad0e-ed1ba65eba5a")
 	)
 	(wire
 		(pts
@@ -5406,23 +5635,13 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 90.17) (xy 189.23 93.98)
+			(xy 223.52 90.17) (xy 223.52 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5d6fb70b-a44d-45d2-9797-951a11f3d9bf")
-	)
-	(wire
-		(pts
-			(xy 228.6 90.17) (xy 240.03 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e87b062-fc12-499f-9df1-49aa7743a869")
 	)
 	(wire
 		(pts
@@ -5456,6 +5675,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 124.46) (xy 209.55 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d92c455-7f82-418d-902d-404cc5720eb5")
+	)
+	(wire
+		(pts
 			(xy 125.73 40.64) (xy 137.16 40.64)
 		)
 		(stroke
@@ -5473,6 +5702,16 @@
 			(type default)
 		)
 		(uuid "75e3bd66-0c5e-40fe-9152-71b63c95acb0")
+	)
+	(wire
+		(pts
+			(xy 163.83 67.31) (xy 175.26 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "772ce695-106e-4991-94a2-5eb02144caea")
 	)
 	(wire
 		(pts
@@ -5496,7 +5735,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 90.17) (xy 195.58 90.17)
+			(xy 223.52 90.17) (xy 240.03 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5526,7 +5765,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 101.6) (xy 189.23 106.68)
+			(xy 223.52 101.6) (xy 223.52 106.68)
 		)
 		(stroke
 			(width 0)
@@ -5566,7 +5805,17 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 90.17) (xy 189.23 90.17)
+			(xy 163.83 95.25) (xy 167.64 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b3c8173-dce9-4362-9ad1-0f508491ea9f")
+	)
+	(wire
+		(pts
+			(xy 219.71 90.17) (xy 223.52 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5606,6 +5855,26 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 135.89) (xy 256.54 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1a4a469-726e-4378-ab6e-408e7da1841e")
+	)
+	(wire
+		(pts
+			(xy 163.83 100.33) (xy 167.64 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2952269-2da4-4069-88a0-2b549f3c7603")
+	)
+	(wire
+		(pts
 			(xy 198.12 39.37) (xy 201.93 39.37)
 		)
 		(stroke
@@ -5633,6 +5902,16 @@
 			(type default)
 		)
 		(uuid "acbafa76-d9bf-4855-adbd-ee0d7e18aa07")
+	)
+	(wire
+		(pts
+			(xy 209.55 124.46) (xy 209.55 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ade5a8ef-3f0e-463c-842c-0a0eeca610dc")
 	)
 	(wire
 		(pts
@@ -5676,6 +5955,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 133.35) (xy 185.42 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b10020-d924-44e1-a17f-5a15147881d8")
+	)
+	(wire
+		(pts
 			(xy 80.01 54.61) (xy 104.14 54.61)
 		)
 		(stroke
@@ -5686,6 +5975,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 133.35) (xy 209.55 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1960d5c-27c1-4653-a46e-3ac187d7020b")
+	)
+	(wire
+		(pts
 			(xy 219.71 46.99) (xy 232.41 46.99)
 		)
 		(stroke
@@ -5693,16 +5992,6 @@
 			(type default)
 		)
 		(uuid "c2db18c3-8c2a-4ea6-847e-659246d67462")
-	)
-	(wire
-		(pts
-			(xy 228.6 99.06) (xy 228.6 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c472703d-a4da-4f9a-a41e-acc184450967")
 	)
 	(wire
 		(pts
@@ -5746,16 +6035,6 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 111.76) (xy 228.6 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "caac7794-32a5-4e6f-b15e-8d29d6cbc8df")
-	)
-	(wire
-		(pts
 			(xy 163.83 72.39) (xy 167.64 72.39)
 		)
 		(stroke
@@ -5763,6 +6042,16 @@
 			(type default)
 		)
 		(uuid "d0f1cd60-1c5f-4934-90e5-3f24788fdf73")
+	)
+	(wire
+		(pts
+			(xy 182.88 67.31) (xy 186.69 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2082fc1-7252-45b3-b7d6-435db6dbc81d")
 	)
 	(wire
 		(pts
@@ -5776,6 +6065,36 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 124.46) (xy 191.77 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6d97326-c733-4a83-9ee7-684b2d04499d")
+	)
+	(wire
+		(pts
+			(xy 256.54 135.89) (xy 256.54 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddcaac59-6e36-4a31-88e7-87db3a4bd113")
+	)
+	(wire
+		(pts
+			(xy 185.42 133.35) (xy 191.77 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0a15428-c9b7-4e66-9aec-c845c4cc4978")
+	)
+	(wire
+		(pts
 			(xy 151.13 62.23) (xy 151.13 55.88)
 		)
 		(stroke
@@ -5786,7 +6105,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 91.44) (xy 228.6 90.17)
+			(xy 247.65 90.17) (xy 256.54 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5846,17 +6165,17 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 101.6) (xy 228.6 101.6)
+			(xy 209.55 147.32) (xy 209.55 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f69417a5-58ea-4d84-a756-8706460da238")
+		(uuid "f8268174-95b9-4cb9-94cc-464788db6b43")
 	)
 	(wire
 		(pts
-			(xy 163.83 90.17) (xy 177.8 90.17)
+			(xy 163.83 90.17) (xy 212.09 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5894,6 +6213,16 @@
 		)
 		(uuid "071cea66-a06f-4c50-836c-026b4942e454")
 	)
+	(label "VRT"
+		(at 167.64 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b45ac15-a798-4315-a463-00b9a5cfb46d")
+	)
 	(label "SENSE"
 		(at 232.41 46.99 0)
 		(effects
@@ -5914,6 +6243,36 @@
 		)
 		(uuid "13b61046-077e-43b1-9d20-0e6391b5d487")
 	)
+	(label "VTEMP"
+		(at 167.64 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "16a6c98a-9b87-4385-a426-672a1e7a484e")
+	)
+	(label "INTVDD"
+		(at 167.64 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1dc9ac1f-cf83-4972-a86a-a5d0f92f0105")
+	)
+	(label "VRT"
+		(at 173.99 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "26422d8d-65b8-4aa8-8c3f-0297e0e20ebc")
+	)
 	(label "Q1B_GATE"
 		(at 53.34 49.53 0)
 		(effects
@@ -5924,15 +6283,25 @@
 		)
 		(uuid "2f4f0e87-4849-4ac3-b3c9-bf7d45419e0d")
 	)
-	(label "VCELL"
-		(at 208.28 101.6 0)
+	(label "NTC"
+		(at 256.54 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "2fda1736-227d-4f13-884e-10b5db292cb5")
+		(uuid "31cdd19d-39b8-4a9e-bd1b-c196f4587344")
+	)
+	(label "GND"
+		(at 186.69 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "355f4fd3-9b52-46d7-9507-d6d40251010e")
 	)
 	(label "BAT_7V2"
 		(at 248.92 43.18 0)
@@ -5963,16 +6332,6 @@
 			(justify left bottom)
 		)
 		(uuid "46e31a2e-2655-4431-96f1-661fbe456696")
-	)
-	(label "PGND"
-		(at 232.41 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c08b943-ba9d-432e-a417-f056c0205c1a")
 	)
 	(label "PGND"
 		(at 157.48 111.76 0)
@@ -6085,16 +6444,6 @@
 		(uuid "73539126-4bab-4b27-bda5-403fa95e1e21")
 	)
 	(label "GND"
-		(at 228.6 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7a131692-3d2c-43bf-bfb1-e34b13908536")
-	)
-	(label "GND"
 		(at 254 45.72 0)
 		(effects
 			(font
@@ -6105,7 +6454,7 @@
 		(uuid "8014d78e-0813-4f7c-a829-3a8e614df2e3")
 	)
 	(label "GND"
-		(at 189.23 104.14 0)
+		(at 223.52 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6145,7 +6494,7 @@
 		(uuid "8a85e76f-04c2-4859-bfd7-a96fda39d785")
 	)
 	(label "BAT_7V2"
-		(at 240.03 90.17 0)
+		(at 256.54 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6153,6 +6502,26 @@
 			(justify left bottom)
 		)
 		(uuid "92d98bb0-72e5-4602-9fc3-720bdd896c2e")
+	)
+	(label "GND"
+		(at 185.42 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "944d3314-3a88-4fbd-8ecb-c27c21a9c467")
+	)
+	(label "GND"
+		(at 209.55 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9625d6f8-0111-432f-a99e-449962b8117a")
 	)
 	(label "PGND"
 		(at 137.16 52.07 0)
@@ -6183,6 +6552,16 @@
 			(justify left bottom)
 		)
 		(uuid "aeeb3c58-ec60-4939-960b-7596211051af")
+	)
+	(label "GND"
+		(at 256.54 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b3d9751a-ec16-4fdd-9bfe-6e2aaf31e899")
 	)
 	(label "PGND"
 		(at 176.53 50.8 0)
@@ -6224,8 +6603,18 @@
 		)
 		(uuid "db147bac-a33e-4d11-ba3c-1e18ee26095c")
 	)
+	(label "GND"
+		(at 219.71 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dd48783b-f11d-487a-8234-7a204f676ca5")
+	)
 	(label "VCELL"
-		(at 195.58 90.17 0)
+		(at 229.87 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6243,6 +6632,16 @@
 			(justify left bottom)
 		)
 		(uuid "e509a973-796c-48e3-ac7d-6a9f3aeeaf39")
+	)
+	(label "VTEMP"
+		(at 173.99 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e6307099-2d95-47a9-80b3-8ca0ca16dd6c")
 	)
 	(label "BAT_7V2"
 		(at 104.14 54.61 0)
@@ -6810,6 +7209,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 256.54 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3221921b-cd57-4c26-9c95-315b6f54bd49")
+		(property "Reference" "#PWR010"
+			(at 256.54 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 256.54 144.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "48e4d31d-3697-4874-84a5-1d89c92aefc9")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "FDS6975_1")
 		(lib_id "crawler-pi-charger:FDS6975")
 		(at 73.66 34.29 0)
@@ -6958,6 +7435,234 @@
 		)
 	)
 	(symbol
+		(lib_id "crawler-pi-charger:CRCW04029K76FKED")
+		(at 195.58 124.46 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b237279-1e8f-4bb6-838f-2c1ebff373be")
+		(property "Reference" "R7"
+			(at 195.58 118.11 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "9.76k"
+			(at 195.58 120.65 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 195.58 122.682 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C843909.pdf"
+			(at 195.58 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, 9.76k, 1/16W, 1% 0402"
+			(at 195.58 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 195.58 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW04029K76FKED"
+			(at 195.58 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C843909"
+			(at 195.58 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "789f10fc-c634-4934-98e2-d691406c7a65")
+		)
+		(pin "1"
+			(uuid "644bb9c0-0efa-45f6-ae26-40b21c427d8c")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "crawler-pi-charger:CRCW040228K0FKED")
+		(at 209.55 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "437fb163-e8a4-47db-b305-087f41086343")
+		(property "Reference" "R19"
+			(at 212.09 142.2399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "28.0K"
+			(at 212.09 144.7799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 207.772 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C844308.pdf"
+			(at 209.55 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, 28.0K, 1/16W, 1% 0402"
+			(at 209.55 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 209.55 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" " CRCW040228K0FKED"
+			(at 209.55 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C844308"
+			(at 209.55 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "34ee576a-e263-486e-8f32-c1290694ccb0")
+		)
+		(pin "1"
+			(uuid "1e8c56ef-55f2-47b8-af20-8e116cd56345")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "crawler-pi-charger:TMK325BJ106MM")
 		(at 219.71 58.42 0)
 		(unit 1)
@@ -7056,84 +7761,6 @@
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 228.6 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6b155405-de52-4aa1-a9ef-ec31eca174bf")
-		(property "Reference" "#PWR03"
-			(at 228.6 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 124.46 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 228.6 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 228.6 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "79db3f7d-73f1-4375-80c3-ab18223d50fe")
-		)
-		(instances
-			(project "crawler-pi-charger"
-				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -7718,6 +8345,162 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 209.55 153.67 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92014c4d-c9b8-413a-af46-4c3285afbb29")
+		(property "Reference" "#PWR011"
+			(at 209.55 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 209.55 158.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 209.55 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0893f207-0aee-4005-923e-ebbca0eaecf0")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 186.69 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93a85ee2-ad69-4f73-9425-1b41a8537a53")
+		(property "Reference" "#PWR012"
+			(at 186.69 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 186.69 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 186.69 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "37e719d8-4636-4d86-b5dd-08e88b274b82")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 120.65 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -7923,7 +8706,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:CRCW040249K9FKED")
-		(at 228.6 95.25 0)
+		(at 243.84 90.17 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7934,29 +8717,27 @@
 		(fields_autoplaced yes)
 		(uuid "a63b0f6f-8c20-4acd-9b34-82b464e6951f")
 		(property "Reference" "R12"
-			(at 231.14 93.9799 0)
+			(at 243.84 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 231.14 96.5199 0)
+		(property "Value" "49.9k"
+			(at 243.84 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 226.822 95.25 90)
+			(at 243.84 88.392 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7967,7 +8748,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C350874.pdf"
-			(at 228.6 95.25 0)
+			(at 243.84 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7978,7 +8759,7 @@
 			)
 		)
 		(property "Description" "Resistor, 49.9K, 1/16W, 1% 0402"
-			(at 228.6 95.25 0)
+			(at 243.84 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7989,7 +8770,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay"
-			(at 228.6 95.25 0)
+			(at 243.84 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8000,7 +8781,7 @@
 			)
 		)
 		(property "MPN" "CRCW040249K9FKED"
-			(at 228.6 95.25 0)
+			(at 243.84 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8011,7 +8792,7 @@
 			)
 		)
 		(property "LCSC" "C350874"
-			(at 228.6 95.25 0)
+			(at 243.84 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8038,7 +8819,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 106.68 0)
+		(at 185.42 149.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8047,9 +8828,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ac412fca-ff88-4fb7-81fe-45ba03f031b2")
-		(property "Reference" "#PWR07"
-			(at 189.23 113.03 0)
+		(uuid "a6bca778-7dae-4212-ae7d-7ad0a25441f0")
+		(property "Reference" "#PWR09"
+			(at 185.42 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8060,7 +8841,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 111.76 0)
+			(at 185.42 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8070,7 +8851,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 106.68 0)
+			(at 185.42 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8081,7 +8862,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 106.68 0)
+			(at 185.42 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8092,7 +8873,85 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 106.68 0)
+			(at 185.42 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c0e49b56-7fd0-4a5b-8bf4-8dc6cce794a5")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac412fca-ff88-4fb7-81fe-45ba03f031b2")
+		(property "Reference" "#PWR07"
+			(at 223.52 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 223.52 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8276,7 +9135,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 266.7 86.36 0)
+		(at 269.24 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8286,7 +9145,7 @@
 		(dnp no)
 		(uuid "c79d3cab-975d-4fba-b77d-0543ac5a302f")
 		(property "Reference" "J5"
-			(at 269.24 86.3599 0)
+			(at 271.78 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8297,7 +9156,7 @@
 			)
 		)
 		(property "Value" "NTC"
-			(at 269.24 88.8999 0)
+			(at 271.78 135.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8308,7 +9167,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 266.7 86.36 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8319,7 +9178,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 86.36 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8330,7 +9189,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 266.7 86.36 0)
+			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8585,6 +9444,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 219.71 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ddb2e333-0677-4008-8f9f-b5dbf95b6f38")
+		(property "Reference" "#PWR013"
+			(at 219.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 219.71 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 219.71 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "23c82fbe-d0f1-4cd9-80c7-4df89f81394e")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 40.64 34.29 0)
 		(unit 1)
 		(body_style 1)
@@ -8663,7 +9600,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:CRCW040210K0FKED")
-		(at 181.61 90.17 270)
+		(at 215.9 90.17 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8674,7 +9611,7 @@
 		(fields_autoplaced yes)
 		(uuid "ded7987c-d80e-4007-b378-5e223d5c177e")
 		(property "Reference" "R18"
-			(at 181.61 83.82 90)
+			(at 215.9 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8684,7 +9621,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 181.61 86.36 90)
+			(at 215.9 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8694,7 +9631,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 181.61 88.392 90)
+			(at 215.9 88.392 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8705,7 +9642,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C71619.pdf"
-			(at 181.61 90.17 0)
+			(at 215.9 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8716,7 +9653,7 @@
 			)
 		)
 		(property "Description" "Resistor, 10.0k, 1/16W, 1% 0402"
-			(at 181.61 90.17 0)
+			(at 215.9 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8727,7 +9664,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay"
-			(at 181.61 90.17 0)
+			(at 215.9 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8738,7 +9675,7 @@
 			)
 		)
 		(property "MPN" "CRCW040210K0FKED"
-			(at 181.61 90.17 0)
+			(at 215.9 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8749,7 +9686,7 @@
 			)
 		)
 		(property "LCSC" "C71617"
-			(at 181.61 90.17 0)
+			(at 215.9 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8769,6 +9706,119 @@
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
 					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "crawler-pi-charger:06033D104KAT2A")
+		(at 179.07 67.31 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1e98da9-d6de-43af-907e-14769bb6e855")
+		(property "Reference" "C3"
+			(at 179.07 59.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 179.07 62.23 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+			(at 182.88 66.3448 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C179462.pdf"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MLCC, 100nF, 25V, X5R, 1210"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "AVX"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "06033D104KAT2A"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C179462"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cd78bba5-cda1-4476-b1ef-26e379690c5f")
+		)
+		(pin "1"
+			(uuid "10503c7b-7d75-4ba5-a66e-f40cbf817ac9")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -8847,6 +9897,121 @@
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "crawler-pi-charger:06033D104KAT2A")
+		(at 185.42 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eef55bb5-1bd4-4649-9687-58590b444d20")
+		(property "Reference" "C4"
+			(at 189.23 138.4299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 189.23 140.9699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+			(at 186.3852 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C179462.pdf"
+			(at 185.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MLCC, 100nF, 25V, X5R, 1210"
+			(at 185.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "AVX"
+			(at 185.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "06033D104KAT2A"
+			(at 185.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C179462"
+			(at 185.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "bc9d4721-d674-4b1a-bd8a-41abb9cbc0ff")
+		)
+		(pin "1"
+			(uuid "a42e059b-28f2-4da3-97d2-bd79bdbd90fa")
+		)
+		(instances
+			(project "crawler-pi-charger"
+				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -9015,8 +10180,8 @@
 		)
 	)
 	(symbol
-		(lib_id "crawler-pi-charger:RC0603FR-0710KL")
-		(at 228.6 107.95 0)
+		(lib_id "crawler-pi-charger:CRCW040210K0FKED")
+		(at 195.58 133.35 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9025,31 +10190,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f52cd72d-7a2f-432b-bf81-db501bff306e")
-		(property "Reference" "R101"
-			(at 231.14 106.6799 0)
+		(uuid "f63e0b7d-ff4d-479f-8c3c-c123d3875816")
+		(property "Reference" "R9"
+			(at 195.58 127 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "10k"
-			(at 231.14 109.2199 0)
+			(at 195.58 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 226.822 107.95 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 195.58 131.572 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9059,8 +10222,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
-			(at 228.6 107.95 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C71619.pdf"
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9070,8 +10233,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, 10k, 1/10W, 1% 0603"
-			(at 228.6 107.95 0)
+		(property "Description" "Resistor, 10.0k, 1/16W, 1% 0402"
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9081,8 +10244,8 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
-			(at 228.6 107.95 0)
+		(property "Manufacturer" "Vishay"
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9092,8 +10255,8 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
-			(at 228.6 107.95 0)
+		(property "MPN" "CRCW040210K0FKED"
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9103,8 +10266,8 @@
 				)
 			)
 		)
-		(property "LCSC" "C98220"
-			(at 228.6 107.95 0)
+		(property "LCSC" "C71617"
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9113,17 +10276,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "eca25b9a-60a5-4bd2-bb98-7548bf8a8df2")
 		)
 		(pin "1"
-			(uuid "b5e48670-25ac-4f27-aa27-8583b2f93927")
+			(uuid "09768b81-f1c3-4acd-97a3-2947c08add9c")
+		)
+		(pin "2"
+			(uuid "36c7ae46-21b9-4a6f-ba53-7419a78bfc93")
 		)
 		(instances
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "R101")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -9141,7 +10304,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7794aab-b570-4d2c-bef8-4f0725d5d458")
-		(property "Reference" "R2"
+		(property "Reference" "R8"
 			(at 123.19 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9238,7 +10401,7 @@
 		(instances
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "R2")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -9393,7 +10556,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:06033D104KAT2A")
-		(at 189.23 97.79 0)
+		(at 223.52 97.79 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9404,7 +10567,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd927bcb-7cd6-4dc6-ad66-006093e3e2d7")
 		(property "Reference" "C5"
-			(at 193.04 96.5199 0)
+			(at 227.33 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9415,7 +10578,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 193.04 99.0599 0)
+			(at 227.33 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9426,7 +10589,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at 190.1952 101.6 0)
+			(at 224.4852 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9437,7 +10600,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C179462.pdf"
-			(at 189.23 97.79 0)
+			(at 223.52 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9448,7 +10611,7 @@
 			)
 		)
 		(property "Description" "MLCC, 100nF, 25V, X5R, 1210"
-			(at 189.23 97.79 0)
+			(at 223.52 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9459,7 +10622,7 @@
 			)
 		)
 		(property "Manufacturer" "AVX"
-			(at 189.23 97.79 0)
+			(at 223.52 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9470,7 +10633,7 @@
 			)
 		)
 		(property "MPN" "06033D104KAT2A"
-			(at 189.23 97.79 0)
+			(at 223.52 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9481,7 +10644,7 @@
 			)
 		)
 		(property "LCSC" "C179462"
-			(at 189.23 97.79 0)
+			(at 223.52 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
