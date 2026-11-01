@@ -515,6 +515,36 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.3,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.6,
+        "microvia_drill": 0.2,
+        "name": "POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.5,
+        "tuning_profile": "",
+        "via_diameter": 1.2,
+        "via_drill": 0.6
+      },
+      {
+        "clearance": 0.25,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "SIGNAL",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -522,7 +552,32 @@
     },
     "net_colors": {},
     "netclass_assignments": {},
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "POWER",
+        "pattern": "SW"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "SYS_LOAD"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "TGATE"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "BGATE"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "SENSE"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "BAT_7V2"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -779,7 +834,7 @@
         "uuid": "8f05fe3a-6c64-4964-bc66-e0987990510a"
       }
     ],
-    "used_designators": "#FLG1-2,#PWR1-13,C1-4,D1,J1-6,L1,Q1-3,R1-5,R7,U1",
+    "used_designators": "#FLG1-4,#PWR1-18,C1-4,D1,J1-6,L1,Q1-3,R1-5,R7,U1",
     "variants": []
   },
   "sheets": [
