@@ -64,7 +64,7 @@
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 2,
-          "remove_islands": 1,
+          "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -530,7 +530,7 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.15,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "microvia_diameter": 0.6,
@@ -539,7 +539,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
+        "track_width": 0.4,
         "tuning_profile": "",
         "via_diameter": 1.2,
         "via_drill": 0.6
@@ -589,6 +589,34 @@
       {
         "netclass": "POWER",
         "pattern": "/BAT_7V2"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "+12V3"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "/Q1B_GATE"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/INTVDD"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/MCU_FAULT"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/MCU_CHRG"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/MCU_READY"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/MCU_TOC"
       }
     ]
   },
