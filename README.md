@@ -24,7 +24,33 @@ The board provides:
 
 The project includes KiCad schematic and PCB design files. The [`gerber/`](pcb/crawler-pi/gerber/) directory contains manufacturing outputs from an earlier board revision.
 
-**Documentation still to be added:** a through-hole (THT) component list, connector assignments, assembly instructions, and any board-specific wiring notes. Consult the schematic and PCB files for authoritative pin assignments and component values.
+#### Through-hole (THT) components — hand soldering
+
+The following **19 components** require through-hole hand soldering. The reference designators and part numbers are reproduced from the original BOM (including `BS170` and `178.6165.0001`).
+
+| Reference | Manufacturer | MPN | LCSC | Type |
+| --- | --- | --- | --- | --- |
+| R_POL_PD1 | VISHAY | RN60E1003BRE6 | C1796719 | Resistor |
+| R_LED_GATE1 | YAGEO | MFR-25FRF52-100R | C1740087 | Resistor |
+| R_LED_PD1 | VISHAY | RN60E1003BRE6 | C1796719 | Resistor |
+| Q_PMOS_GDS | onsemi | FQP27P06 | C462764 | p-channel MOSFET |
+| BS170 | onsemi | BS170 | C111691 | n-channel MOSFET |
+| 178.6165.0001 | Littelfuse | 178.6165.0001 | C207060 | Fuseholder |
+| J_BATT1 | CUI | TB010-508-02BE | C5954901 | Terminal Block |
+| J_MOT_DRV_L_PWR1 | CUI | TB010-508-02BE | C5954901 | Terminal Block |
+| J_MOT_DRV_R_PWR1 | CUI | TB010-508-02BE | C5954901 | Terminal Block |
+| J_PWR_SWITCH1 | CUI | TB010-508-02BE | C5954901 | Terminal Block |
+| J_POWER_MON_PWR1 | Amphenol | VI0421550000G | C3816565 | Terminal Block |
+| J_BUCk1 | Amphenol | VI0421550000G | C3816565 | Terminal Block |
+| J_RPI1 | ZHOURI | PC104-2*20 | C5307344 | Pin Stacking Header 2x20 |
+| J_PWR_MON_I2C1 | hanxia | HX PH254-01-04-Z-L11.5 | C52016392 | Pin Header 1x4 |
+| J_ODO_L_I2C1 | hanxia | HX PH254-01-04-Z-L11.5 | C52016392 | Pin Header 1x4 |
+| J_IMU_I2C1 | hanxia | HX PH254-01-04-Z-L11.5 | C52016392 | Pin Header 1x4 |
+| J_ODO_R_I2C1 | hanxia | HX PH254-01-04-Z-L11.5 | C52016392 | Pin Header 1x4 |
+| J_MOT_DRV_L_CTRL1 | hanxia | HX PZ2.54-2x4P ZZ | C32713277 | Pin Header 2x4 |
+| J_MOT_DRV_R_CTRL1 | hanxia | HX PZ2.54-2x4P ZZ | C32713277 | Pin Header 2x4 |
+
+**Documentation still to be added:** connector assignments, assembly instructions, and board-specific wiring notes. Consult the schematic and PCB files for authoritative pin assignments and component values.
 
 ### 2. crawler-pi-charger — NiMH charger and power-path board
 
