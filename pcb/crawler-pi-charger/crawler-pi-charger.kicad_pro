@@ -621,6 +621,18 @@
       {
         "netclass": "POWER",
         "pattern": "GND"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/MCU_DOCK_DETECT"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/DOCK_SENSE"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/DOCK_REF"
       }
     ]
   },
