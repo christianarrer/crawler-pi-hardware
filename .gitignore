@@ -44,3 +44,8 @@ fp-info-cache
 
 # Temporary imported OrCAD library
 pcb/crawler-pi-charger/orcad_import.kicad_sym
+
+# Windows Explorer thumbnail cache
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
