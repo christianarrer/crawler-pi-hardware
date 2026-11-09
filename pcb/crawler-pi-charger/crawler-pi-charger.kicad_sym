@@ -36,7 +36,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0.9652 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1906,7 +1906,7 @@
 				)
 			)
 		)
-		(property "Value" "49.9K"
+		(property "Value" "49.9k"
 			(at 0 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1938,7 +1938,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, 49.9K, 1/16W, 1% 0402"
+		(property "Description" "Resistor, 49.9k, 1/16W, 1% 0402"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
