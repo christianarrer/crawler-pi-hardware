@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,10.0.7*
+G04 #@! TF.CreationDate,2026-11-09T16:18:04+01:00*
+G04 #@! TF.ProjectId,crawler-pi-charger,63726177-6c65-4722-9d70-692d63686172,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.7) date 2026-11-09 16:18:04*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.050000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X25000000Y-25000000D02*
+X95000000Y-25000000D01*
+X95000000Y-95000000D01*
+X25000000Y-95000000D01*
+X25000000Y-25000000D01*
+M02*
