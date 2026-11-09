@@ -787,7 +787,7 @@
       {
         "filename": "crawler-pi.kicad_sch",
         "name": "crawler-pi",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "d296cddb-c3b7-4a50-aac4-0988368b3cd5"
       }
     ],
     "used_designators": "",
@@ -796,7 +796,7 @@
   "sheets": [
     [
       "d296cddb-c3b7-4a50-aac4-0988368b3cd5",
-      ""
+      "crawler-pi"
     ]
   ],
   "text_variables": {},
