@@ -7539,7 +7539,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 72.39) (xy 106.68 129.54)
+			(xy 106.68 72.39) (xy 106.68 123.19)
 		)
 		(stroke
 			(width 0)
@@ -8849,7 +8849,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 137.16) (xy 106.68 147.32)
+			(xy 106.68 130.81) (xy 106.68 147.32)
 		)
 		(stroke
 			(width 0)
@@ -10101,7 +10101,7 @@
 	)
 	(symbol
 		(lib_id "crawler-pi-charger:CRCW0402100KFKED")
-		(at 106.68 133.35 0)
+		(at 106.68 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10112,7 +10112,7 @@
 		(fields_autoplaced yes)
 		(uuid "124e042f-d28f-4cb1-b18b-799d0a4f4d6f")
 		(property "Reference" "R105"
-			(at 109.22 132.0799 0)
+			(at 109.22 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10123,7 +10123,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 109.22 134.6199 0)
+			(at 109.22 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10134,7 +10134,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 104.902 133.35 90)
+			(at 104.902 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10145,7 +10145,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C481918.pdf"
-			(at 106.68 133.35 0)
+			(at 106.68 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10156,7 +10156,7 @@
 			)
 		)
 		(property "Description" "Resistor, 100k, 1/16W, 1% 0402"
-			(at 106.68 133.35 0)
+			(at 106.68 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10167,7 +10167,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay"
-			(at 106.68 133.35 0)
+			(at 106.68 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10178,7 +10178,7 @@
 			)
 		)
 		(property "MPN" "CRCW0402100KFKED"
-			(at 106.68 133.35 0)
+			(at 106.68 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10189,7 +10189,7 @@
 			)
 		)
 		(property "LCSC" "C481918"
-			(at 106.68 133.35 0)
+			(at 106.68 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
