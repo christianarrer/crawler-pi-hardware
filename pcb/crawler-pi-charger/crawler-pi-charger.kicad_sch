@@ -1710,6 +1710,148 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:NetTie_2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "NT"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "NetTie_2"
+				(at 0 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Net tie, 2 pins"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "net tie short"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Net*Tie*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "NetTie_2_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "NetTie_2_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "crawler-pi-charger:06033D104KAT2A"
 			(pin_numbers
 				(hide yes)
@@ -3614,7 +3756,7 @@
 					)
 				)
 			)
-			(property "Value" "49.9K"
+			(property "Value" "49.9k"
 				(at 0 0 90)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3646,7 +3788,7 @@
 					)
 				)
 			)
-			(property "Description" "Resistor, 49.9K, 1/16W, 1% 0402"
+			(property "Description" "Resistor, 49.9k, 1/16W, 1% 0402"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7120,10 +7262,10 @@
 		(uuid "484ccf0f-409d-4b1f-a4d8-86b6d5aac088")
 	)
 	(junction
-		(at 148.59 111.76)
+		(at 207.01 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4df25a3e-cbf9-4c29-aad8-4a566c342426")
+		(uuid "4b0a78da-ea4d-4943-b4cd-341bda3dbc11")
 	)
 	(junction
 		(at 46.99 85.09)
@@ -7172,6 +7314,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70ca9968-ed0b-4293-ad40-56071f80d05a")
+	)
+	(junction
+		(at 161.29 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70fa99a2-4b05-4890-aba9-6129fae8e176")
 	)
 	(junction
 		(at 118.11 40.64)
@@ -7288,10 +7436,22 @@
 		(uuid "d204a6c6-180f-462a-8b37-f31c201037e7")
 	)
 	(junction
+		(at 219.71 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2f719b0-981d-4be2-b367-51a57cc19038")
+	)
+	(junction
 		(at 63.5 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbe91d7b-6ec6-4d33-840a-20ba4e45d4e4")
+	)
+	(junction
+		(at 153.67 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd28d3b4-9d12-499f-8ff4-bdde117aa2e2")
 	)
 	(junction
 		(at 60.96 143.51)
@@ -7316,6 +7476,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f28dc403-54cb-46be-ae47-fe6cec80a92b")
+	)
+	(junction
+		(at 148.59 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7364424-4910-4330-a687-6792537cb974")
 	)
 	(junction
 		(at 223.52 90.17)
@@ -7366,6 +7532,16 @@
 			(type default)
 		)
 		(uuid "0613a4bb-9b33-40e3-92cf-e9dcc125f879")
+	)
+	(wire
+		(pts
+			(xy 148.59 111.76) (xy 148.59 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06cdc8dc-d51c-49b5-ac72-1ad2fee7f444")
 	)
 	(wire
 		(pts
@@ -7749,6 +7925,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 52.07) (xy 125.73 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "506fe417-5867-4ba7-b634-f7c5da5a8b74")
+	)
+	(wire
+		(pts
 			(xy 219.71 46.99) (xy 219.71 44.45)
 		)
 		(stroke
@@ -7906,16 +8092,6 @@
 			(type default)
 		)
 		(uuid "638001c0-f9c1-43c4-8c4a-749b02286833")
-	)
-	(wire
-		(pts
-			(xy 148.59 111.76) (xy 153.67 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64a4f22c-e27b-462b-8a57-9974f84093ee")
 	)
 	(wire
 		(pts
@@ -8089,7 +8265,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 44.45) (xy 207.01 46.99)
+			(xy 207.01 44.45) (xy 207.01 68.58)
 		)
 		(stroke
 			(width 0)
@@ -8199,6 +8375,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 111.76) (xy 161.29 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bd1f17f-aba0-4f6f-a8bc-a5aa2a6f1d4c")
+	)
+	(wire
+		(pts
 			(xy 17.78 118.11) (xy 24.13 118.11)
 		)
 		(stroke
@@ -8256,6 +8442,16 @@
 			(type default)
 		)
 		(uuid "a7b8fa47-b57d-45bc-a00b-3aa165131c1e")
+	)
+	(wire
+		(pts
+			(xy 219.71 68.58) (xy 229.87 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a942a389-59e2-43f9-abe7-fdeda584cbb6")
 	)
 	(wire
 		(pts
@@ -8499,16 +8695,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 111.76) (xy 148.59 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7576833-cb3b-4bf2-8678-5afa364c6501")
-	)
-	(wire
-		(pts
 			(xy 201.93 34.29) (xy 207.01 34.29)
 		)
 		(stroke
@@ -8629,6 +8815,26 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 111.76) (xy 167.64 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d32178df-cf22-4ec4-9561-9dd5c0774f8f")
+	)
+	(wire
+		(pts
+			(xy 219.71 62.23) (xy 219.71 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3d5a25c-8078-4199-8ef8-7c240a9cafd5")
+	)
+	(wire
+		(pts
 			(xy 60.96 50.8) (xy 63.5 50.8)
 		)
 		(stroke
@@ -8669,7 +8875,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 49.53) (xy 190.5 54.61)
+			(xy 190.5 49.53) (xy 190.5 68.58)
 		)
 		(stroke
 			(width 0)
@@ -8706,6 +8912,16 @@
 			(type default)
 		)
 		(uuid "e0a15428-c9b7-4e66-9aec-c845c4cc4978")
+	)
+	(wire
+		(pts
+			(xy 190.5 68.58) (xy 207.01 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e174f2eb-9b64-4af7-aa8d-d12ad66f4ab8")
 	)
 	(wire
 		(pts
@@ -8829,6 +9045,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 68.58) (xy 219.71 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3fa0ec3-4f2a-4399-860a-21e1139dd67b")
+	)
+	(wire
+		(pts
 			(xy 92.71 54.61) (xy 96.52 54.61)
 		)
 		(stroke
@@ -8919,16 +9145,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 62.23) (xy 219.71 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc84b80f-378a-4be7-84ed-cb6153e2bbd8")
-	)
-	(wire
-		(pts
 			(xy 39.37 30.48) (xy 39.37 27.94)
 		)
 		(stroke
@@ -8946,6 +9162,16 @@
 			(justify left bottom)
 		)
 		(uuid "0086d06c-b444-4cb2-85fd-21db1e67fc6e")
+	)
+	(label "PGND"
+		(at 125.73 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "023ca24f-c467-463a-99da-ca9b1e4f9f80")
 	)
 	(label "DOCK_RAW"
 		(at 44.45 25.4 0)
@@ -9137,6 +9363,16 @@
 		)
 		(uuid "46e31a2e-2655-4431-96f1-661fbe456696")
 	)
+	(label "PGND"
+		(at 229.87 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "47cac8dc-9286-40e1-a9fd-f76f6cdcce7a")
+	)
 	(label "VCDIV"
 		(at 167.64 90.17 0)
 		(effects
@@ -9326,6 +9562,16 @@
 			(justify left bottom)
 		)
 		(uuid "e19a8ddf-8e21-4689-b042-27f23bc09f32")
+	)
+	(label "PGND"
+		(at 167.64 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3b5695a-ddfb-4839-abf8-5be607fcf1fa")
 	)
 	(label "VTEMP"
 		(at 173.99 133.35 0)
@@ -11552,84 +11798,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 118.11 52.07 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "41bf23ad-9493-4475-ac98-0a058530c0a6")
-		(property "Reference" "#PWR05"
-			(at 118.11 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 118.11 57.15 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 118.11 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 118.11 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "48e392f1-39ec-47d3-82a5-e13d5622b15a")
-		)
-		(instances
-			(project "crawler-pi-charger"
-				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "crawler-pi-charger:CRCW040228K0FKED")
 		(at 209.55 143.51 0)
 		(unit 1)
@@ -11745,8 +11913,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 219.71 66.04 0)
+		(lib_id "power:PWR_FLAG")
+		(at 161.29 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11755,9 +11923,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4e51825f-77b3-4813-b1be-c9cea3aa33dc")
-		(property "Reference" "#PWR013"
-			(at 219.71 72.39 0)
+		(uuid "5e0c4124-33e8-4bbe-9743-c3f765a25ca3")
+		(property "Reference" "#FLG06"
+			(at 161.29 109.855 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11767,8 +11935,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 219.71 71.12 0)
+		(property "Value" "PWR_FLAG"
+			(at 161.29 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11778,7 +11946,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 219.71 66.04 0)
+			(at 161.29 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11789,7 +11957,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 219.71 66.04 0)
+			(at 161.29 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11799,8 +11967,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 219.71 66.04 0)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 161.29 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11811,12 +11979,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "04863bb2-0bbe-4dd1-b5e9-c0ae8559f011")
+			(uuid "bfc9de25-9382-458f-93a1-ceb3d4cdc2d4")
 		)
 		(instances
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR013")
+					(reference "#FLG06")
 					(unit 1)
 				)
 			)
@@ -13452,84 +13620,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 54.61 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98c2e30b-3238-47d9-bcfc-10f6e0a414c2")
-		(property "Reference" "#PWR017"
-			(at 190.5 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 190.5 59.69 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.5 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 190.5 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e475e74c-b88e-4acf-8e7a-f4dc46d57327")
-		)
-		(instances
-			(project "crawler-pi-charger"
-				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 114.3 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -13787,7 +13877,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, 49.9K, 1/16W, 1% 0402"
+		(property "Description" "Resistor, 49.9k, 1/16W, 1% 0402"
 			(at 243.84 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -14081,20 +14171,19 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 207.01 46.99 0)
+		(lib_id "Device:NetTie_2")
+		(at 151.13 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bcc0365a-1b50-432c-983e-5af2b5293084")
-		(property "Reference" "#PWR04"
-			(at 207.01 53.34 0)
-			(hide yes)
+		(uuid "bfa088a2-46ee-4f1b-8364-cb32924a3d90")
+		(property "Reference" "NT1"
+			(at 151.13 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14103,8 +14192,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 207.01 52.07 0)
+		(property "Value" "NetTie_2"
+			(at 151.13 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14113,8 +14202,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 207.01 46.99 0)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
+			(at 151.13 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14125,7 +14214,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 46.99 0)
+			(at 151.13 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14135,8 +14224,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 207.01 46.99 0)
+		(property "Description" "Net tie, 2 pins"
+			(at 151.13 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14147,12 +14236,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "1f1262a5-613e-40ca-8eaa-3bd9fe9ba627")
+			(uuid "60e9e346-07c4-4cab-989d-d1e53dbd2fe7")
+		)
+		(pin "2"
+			(uuid "d3170404-2283-4f59-824f-f9a61bf90893")
 		)
 		(instances
 			(project "crawler-pi-charger"
 				(path "/8f05fe3a-6c64-4964-bc66-e0987990510a"
-					(reference "#PWR04")
+					(reference "NT1")
 					(unit 1)
 				)
 			)
